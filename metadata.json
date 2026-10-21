@@ -1,0 +1,6 @@
+{
+  "name": "FluentPro AI",
+  "description": "AI-powered English speaking coach with real-time grammar correction, natural phrasing suggestions, interactive conversation scenarios, and progress analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
